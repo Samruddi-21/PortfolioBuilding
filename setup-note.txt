@@ -1,0 +1,9 @@
+C/C++ Development Environment Setup
+
+I installed Visual Studio Code and the Microsoft C/C++ extension.
+I installed MSYS2 and configured the GCC compiler.
+I added the UCRT64 bin folder to the Windows PATH.
+I verified GCC and G++ using version commands.
+I created a Hello World program in C.
+I compiled the program using GCC without errors.
+The program executed successfully and displayed Hello, World!
